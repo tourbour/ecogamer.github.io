@@ -21,12 +21,9 @@ body > p {
     border-left: 2px solid black;
 }
 
-.link__vk {
-    color: #1d528f;
-}
 
 .game__title {
-    text-align: left;
+    text-align: right;
 }
 
 h1 {
