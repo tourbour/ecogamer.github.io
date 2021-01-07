@@ -21,6 +21,9 @@ body > p {
     border-left: 2px solid black;
 }
 
+.link__vk {
+    color: #1d528f;
+}
 
 .game__title {
     text-align: left;
@@ -70,7 +73,7 @@ ul {
 
 .content-container > h3 {
     margin: 0;
-    margin-bottom: 50px;
+    margin-bottom: 5px;
     font-size: 24px;
     font-weight: 700;
 }
